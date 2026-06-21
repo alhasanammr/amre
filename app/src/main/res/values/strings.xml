@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">حاسبة العمر</string>
+    <string name="main_title">حاسبة العمر الدقيقة</string>
+    <string name="author_tag">تصميم عصري ومريح</string>
+    <string name="choose_birth_date">اختر تاريخ ميلادك</string>
+    <string name="calculate_btn">احسب العمر الآن</string>
+    <string name="reset_btn">إعادة تعيين</string>
+    <string name="share_btn">مشاركة النتيجة</string>
+    
+    <string name="current_age">العمر الحالي</string>
+    <string name="total_age">إجمالي تفاصيل العمر</string>
+    
+    <string name="years_label">سنة</string>
+    <string name="months_label">أشهر</string>
+    <string name="days_label">أيام</string>
+    
+    <string name="total_days">يوم</string>
+    <string name="total_hours">ساعة</string>
+    <string name="total_minutes">دقيقة</string>
+    <string name="total_seconds">ثانية</string>
+    
+    <string name="birth_day_of_week">يوم ولادتك</string>
+    <string name="zodiac_sign">برجك الفلكي</string>
+    <string name="remaining_to_birthday">الأيام المتبقية لعيد ميلادك القادم</string>
+    <string name="remaining_days_unit">%d يوم</string>
+    
+    <string name="no_date_selected">الرجاء اختيار تاريخ ميلادك أولاً للبدء بالحساب</string>
+    <string name="share_text_template">🎉 حساب العمر الدقيق: \n\n📅 تاريخ ميلادي: %1$s\n🌟 عمري الحالي: %2$d سنة، %3$d شهر، و %4$d يوم\n🦁 البرج الفلكي: %5$s\n📅 يوم ولادتي: %6$s\n⏳ المتبقي لعيد ميلادي القادم: %7$s\n\nتم الحساب بواسطة تطبيق "حاسبة العمر الدقيقة" ✨</string>
+</resources>
